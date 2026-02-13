@@ -1,0 +1,11 @@
+{
+
+  "appId": "com.smartcamera.view",
+
+  "appName": "Smart Camera View",
+
+    "webDir": ".",
+
+    "bundledWebRuntime": false
+
+}
